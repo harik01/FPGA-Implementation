@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg484-1" LaunchTime="1669201789">
+  <File Type="BITSTR-BMM" Name="vedic_4CSA_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="vedic_4CSA_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="vedic_4CSA_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="vedic_4CSA_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="vedic_4CSA.tcl"/>
+  <File Type="OPT-TIMING" Name="vedic_4CSA_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="vedic_4CSA_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="vedic_4CSA_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="vedic_4CSA_reports.tcl"/>
+  <File Type="OPT-DRC" Name="vedic_4CSA_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="vedic_4CSA.hwdef"/>
+  <File Type="PWROPT-DCP" Name="vedic_4CSA_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="vedic_4CSA_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="vedic_4CSA_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="vedic_4CSA_placed.dcp"/>
+  <File Type="PLACE-IO" Name="vedic_4CSA_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="vedic_4CSA_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="vedic_4CSA_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="vedic_4CSA_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="vedic_4CSA_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="vedic_4CSA_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="vedic_4CSA_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="vedic_4CSA.bgn"/>
+  <File Type="PLACE-TIMING" Name="vedic_4CSA_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="vedic_4CSA_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="vedic_4CSA.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="vedic_4CSA_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="vedic_4CSA_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="vedic_4CSA_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="vedic_4CSA.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="vedic_4CSA_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="vedic_4CSA_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="vedic_4CSA_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="vedic_4CSA_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="vedic_4CSA_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="vedic_4CSA_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="vedic_4CSA.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="vedic_4CSA_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="vedic_4CSA.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="vedic_4CSA_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="vedic_4CSA_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="vedic_4CSA.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="vedic_4CSA_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="vedic_4CSA_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="vedic_4CSA_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="vedic_4CSA_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="vedic_4CSA_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="vedic_4CSA_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="vedic_4CSA_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="vedic_4CSA_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="vedic_4CSA_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="vedic_4CSA_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="vedic_4CSA_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="vedic_4CSA_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="vedic_4CSA_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="vedic_4CSA_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="vedic_4CSA_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="vedic_4CSA_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="vedic_4CSA_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="vedic_4CSA_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="vedic_4CSA_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="vedic_4CSA.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="vedic_4CSA_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="vedic_4CSA.rbt"/>
+  <File Type="BITSTR-NKY" Name="vedic_4CSA.nky"/>
+  <File Type="BG-DRC" Name="vedic_4CSA.drc"/>
+  <File Type="RDI-RDI" Name="vedic_4CSA.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/2bit adder csa.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/4bit csa adder.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/full adder for csa.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/half adder.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/vedic_2csa.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/vedic 4x4 CSA.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="vedic_4CSA"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/vediccsa.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

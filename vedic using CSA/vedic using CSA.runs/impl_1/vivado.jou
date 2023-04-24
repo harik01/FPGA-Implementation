@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Nov 23 16:41:31 2022
+# Process ID: 15004
+# Current directory: C:/Users/ADMIN/vedic using CSA/vedic using CSA.runs/impl_1
+# Command line: vivado.exe -log vedic_4CSA.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vedic_4CSA.tcl -notrace
+# Log file: C:/Users/ADMIN/vedic using CSA/vedic using CSA.runs/impl_1/vedic_4CSA.vdi
+# Journal file: C:/Users/ADMIN/vedic using CSA/vedic using CSA.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source vedic_4CSA.tcl -notrace

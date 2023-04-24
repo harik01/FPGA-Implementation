@@ -1,0 +1,5 @@
+Breakpoint File Version 1.0
+28 true C:/Users/ADMIN/project_1/project_1.srcs/sources_1/new/vedic_2.v
+30 true C:/Users/ADMIN/project_1/project_1.srcs/sources_1/new/vedic_2.v
+29 true C:/Users/ADMIN/project_1/project_1.srcs/sources_1/new/vedic_2.v
+32 true C:/Users/ADMIN/project_1/project_1.srcs/sources_1/new/vedic_2.v

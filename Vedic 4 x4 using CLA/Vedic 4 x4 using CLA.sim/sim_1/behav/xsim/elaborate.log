@@ -1,0 +1,19 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 6e3d2ed07477490f94c4e6f58c525dd3 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot vedic_4cla_behav xil_defaultlib.vedic_4cla xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port c [C:/Users/ADMIN/Vedic 4 x4 using CLA/Vedic 4 x4 using CLA.srcs/sources_1/new/vedic_4cla.v:31]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port c [C:/Users/ADMIN/Vedic 4 x4 using CLA/Vedic 4 x4 using CLA.srcs/sources_1/new/vedic_4cla.v:34]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port c [C:/Users/ADMIN/Vedic 4 x4 using CLA/Vedic 4 x4 using CLA.srcs/sources_1/new/vedic_4cla.v:32]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.h_a
+Compiling module xil_defaultlib.vedic_2cla
+Compiling module xil_defaultlib.cla_4
+Compiling module xil_defaultlib.cla_2
+Compiling module xil_defaultlib.vedic_4cla
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot vedic_4cla_behav
